@@ -1,0 +1,19 @@
+{
+  "name":"sjicappupdate",
+  "update": 1,
+  "newsam": 3,
+  "news": {
+    "news1": {
+      "news": "We are going to dead",
+      "contents": "We going to died today, we are congradulate us"
+    },
+    "news1": {
+      "news": "We have dead",
+      "contents": "We have died today, we are congradulate us"
+    },
+    "news1": {
+      "news": "We are dead",
+      "contents": "We have ded today, we are ded us"
+    }
+  }
+}
